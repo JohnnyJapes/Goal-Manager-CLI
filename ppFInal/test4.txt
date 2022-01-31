@@ -1,0 +1,4 @@
+1 j|2 4/5/2013 2/4/2016 false | 2 2j|3 1 55 2/2/2012 2/2/2014 something dumb0 | false | test test d|32 3/12/2013 3/14/2058 | false * * - sick just do it|1 5/2/2014 5/8/2015 true | 
+ dumb juck duck|2 1 67 1/15/2015 5/7/2015 somethin important | false |  junk text|23 5/5/2014 6/7/2016 | false +  kk
+|62 2/5/2012 2/3/2013 | false * + 
+ I want to believe|1 1 100 4/12/1995 5/12/1998 Mulder and Scully | false * * _ 
